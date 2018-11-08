@@ -1,1 +1,2 @@
-Git test 문서입니다.
+Git test. File Text Format!! //For command line git tutorial
+print("Hello World");  //GitHub modification
